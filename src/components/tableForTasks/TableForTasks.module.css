@@ -1,0 +1,13 @@
+.table{
+    border-collapse: collapse;
+    color: rgb(249, 249, 249);
+}
+
+.rowes th, .rowes td{
+    padding: 0.3rem;
+    border: 1px rgb(214, 214, 214) solid;
+}
+
+.rowes th{
+    background-color: rgb(118, 118, 118);
+}
