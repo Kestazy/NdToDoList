@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import FormForTask from "./formForTask/FormForTask";
-import TableForTasks from "./tableForTasks/TableForTasks";
+import FormForTask from "../formForTask/FormForTask";
+import TableForTasks from "../tableForTasks/TableForTasks";
 import style from "./ToDoMain.module.css"
 
 const ToDoMain = () => {
